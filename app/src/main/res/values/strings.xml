@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyConstraintLayoutON</string>
+    <string name="S_mas">+</string>
+    <string name="S_menos">-</string>
+    <string name="S_multiplicacion">*</string>
+    <string name="S_divicion">/</string>
+    <string name="S_igual">=</string>
+    <string name="S_punto">.</string>
+    <string name="S_IN">IN</string>
+    <string name="S_LOG">CE</string>
+    <string name="S_P_cierre">)</string>
+    <string name="S_P_abierto">(</string>
+    <string name="S_uno">1</string>
+    <string name="S_dos">2</string>
+    <string name="S_tres">3</string>
+    <string name="S_cuatro">4</string>
+    <string name="S_cinco">5</string>
+    <string name="S_seis">6</string>
+    <string name="S_siete">7</string>
+    <string name="S_ocho">8</string>
+    <string name="S_nueve">9</string>
+    <string name="S_cero">0</string>
+    <string name="S_text">Escribe Aqui Para Calcular</string>
+</resources>
